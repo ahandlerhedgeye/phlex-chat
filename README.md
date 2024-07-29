@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+this is a demo/ first run at making chat components with phlex. 
 
-Things you may want to cover:
+you can view the full chat ui at the root url and a sidebar version at /sidebar_demo 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+to run: 
+```bundle install && bin/dev
